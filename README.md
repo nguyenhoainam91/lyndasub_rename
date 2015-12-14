@@ -1,4 +1,4 @@
-
+```
 Step:
 
 1. Download video from www.lynda.com with IDM
@@ -6,7 +6,8 @@ Step:
 3. Run it with Python 3
 
 Example:
-D:\
+
+-D:\
 |_ Foundations of Programming Design Patterns
     |_ lyndasub_rename.py
     |_ 135365_00_01_WX30_welcome.mp4
@@ -16,4 +17,4 @@ D:\
               |_ 01. Welcome.srt
               |_ 02. What you should know before watching this course.srt
 
-
+```
